@@ -1,7 +1,7 @@
 # VORP Animations
 
 ## What is this script?
-An animation tool for other scripts to utilize. The goal of this scrtipt is to make interacting with animations much easier for other developers. This Script allows other script creators to leverage pre-made animations and animation combos with ease of use in mind.
+An animation tool for other scripts to utilize. The goal of this script is to make interacting with animations much easier for other developers. This Script allows other script creators to leverage pre-made animations and animation combos with ease of use in mind.
 
 ## How to install
 * Download this repo
