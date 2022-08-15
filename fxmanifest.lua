@@ -3,7 +3,7 @@ rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aw
 
 game 'rdr3'
 lua54 'yes'
-author 'Bytesizd'
+author 'VORP @Bytesizd'
 
 client_scripts { 
     'client/client.lua',
@@ -26,6 +26,6 @@ export "initiate"
 
 --dont touch
 version '1.0'
--- vorp_checker 'yes'
--- vorp_name '^4Resource version Check^3'
--- vorp_github 'https://github.com/VORPCORE/vorp_animations'
+vorp_checker 'yes'
+vorp_name '^4Resource version Check^3'
+vorp_github 'https://github.com/VORPCORE/vorp_animations'
