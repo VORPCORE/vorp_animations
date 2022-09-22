@@ -102,5 +102,23 @@ Config.Animations = {
             },
             bone = 'SKEL_L_Hand'
         }
+    },
+    ["readnewspaper"] = {
+        dict = "mech_carry_box",
+        name = "idle",
+        flag = 17,
+        type = 'standard',
+        prop = {
+            model = 'p_cs_newspaper_02x_noanim',
+            coords = {
+                x = 0.15, 
+                y = -0.0399,
+                z = 0,
+                xr = 0.0,
+                yr = 0.0,
+                zr = 0.0
+            },
+            bone = 'SKEL_L_Finger12'
+        }
     }
 }
