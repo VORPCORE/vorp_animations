@@ -120,5 +120,25 @@ Config.Animations = {
             },
             bone = 'SKEL_L_Finger12'
         }
-    }
+    },
+	
+    ["gravedigging"] = {
+        dict = "amb_work@world_human_gravedig@working@male_b@base",
+        name = "base", 
+        flag = 17,
+        type = 'standard',
+        prop = {
+            model = 'p_shovel02x',
+            coords = {
+                x = 0.0, 
+                y = -0.09, 
+                z = -0.09, 
+                xr = 250.2899,
+                yr = 579.19,
+                zr = 373.3
+            },
+            bone = 'SKEL_R_Hand'
+        }
+    },
+
 }
