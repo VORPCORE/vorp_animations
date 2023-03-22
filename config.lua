@@ -140,5 +140,22 @@ Config.Animations = {
             bone = 'SKEL_R_Hand'
         }
     },
-
+    ["carry_box"] = {
+        dict = "mech_carry_box",
+        name = "idle", 
+        flag = 31,
+        type = 'standard',
+        prop = {
+            model = 'p_chair_crate02x',
+            coords = {
+                x = 0.1, 
+                y = -0.1399, 
+                z = 0.21, 
+                xr = 263.2899,
+                yr = 619.19,
+                zr = 334.3
+            },
+            bone = 'SKEL_L_Hand'
+        }
+    },
 }
