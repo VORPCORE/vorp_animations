@@ -158,8 +158,6 @@ Config.Animations = {
             bone = 'SKEL_L_Hand'
         }
     },
-    
-    -- animations by ItzGoatATL / Goat Scripts 
     ["carry_sugar"] = {
         dict = "mech_carry_box",
         name = "idle", 
