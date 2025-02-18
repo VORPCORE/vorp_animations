@@ -158,4 +158,17 @@ Config.Animations = {
             bone = 'SKEL_L_Hand'
         }
     },
+    ["carry_sugar"] = {
+        dict = "mech_carry_box",
+        name = "idle", 
+        flag = 31,
+        type = 'standard',
+        prop = {
+            model = 'p_cs_sacksugarcornwall01x',
+            coords = {
+                x = -0.04999999999999,y = 0.0101,z = 0.17999999999998,xr = 323.68989999999985,yr = 705.8900000000004,zr = 361.4000000000001
+            },
+            bone = 'SKEL_L_Hand'
+        }
+    },
 }
