@@ -171,4 +171,22 @@ Config.Animations = {
             bone = 'SKEL_L_Hand'
         }
     },
+    ["sweeping"] = {
+        dict = "amb_work@world_human_farmer_hoe@male_a@base",
+        name = "base", 
+        flag = 17,
+        type = 'standard',
+        prop = {
+            model = 'p_broom04x',
+            coords = {
+                x =  0.74999999999999, 
+                y = 1.0999999,
+                z = 0.1,
+                xr = 303.0,
+                yr = -90.0,
+                zr = -186.0
+            },
+            bone = 'SKEL_L_Hand'
+        }
+    },
 }
