@@ -202,4 +202,30 @@ Config.Animations = {
             bone = 'SKEL_L_Hand'
         }
     },
+    ["carry_moonshine"] = {
+        dict = "mech_carry_box",
+        name = "idle", 
+        flag = 31,
+        type = 'standard',
+        prop = {
+            model = 'p_bottlecrate_mil',
+            coords = {
+                x = 0.1,y = -0.1399,z = 0.26,xr = 263.2899,yr = 619.19,zr = 334.3
+            },
+            bone = 'SKEL_L_Hand'
+        }
+    },
+    ["carry_moonshine2"] = {
+        dict = "mech_carry_box",
+        name = "idle", 
+        flag = 31,
+        type = 'standard',
+        prop = {
+            model = 'p_bottlecrate_cul',
+            coords = {
+                x = 0.1,y = -0.1399,z = 0.26,xr = 263.2899,yr = 619.19,zr = 334.3
+            },
+            bone = 'SKEL_L_Hand'
+        }
+    },
 }
