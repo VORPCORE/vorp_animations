@@ -133,4 +133,4 @@ _Where to find animation dict and name:_ https://raw.githubusercontent.com/femga
 ```
 
 ## Need More Support? 
-- [Vorp Disord](https://discord.gg/DHGVAbCj7N)
+- [VORP Core Discord](https://discord.gg/JjNYMnDKMf)
